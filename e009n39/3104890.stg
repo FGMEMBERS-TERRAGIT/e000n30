@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Airport/ndb.ac 9.678667 39.921444 5.35 180
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 9.7025797 39.9444986 -0.14 276.76
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 9.7047043 39.9417148 -0.08 171.65
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 9.7025256 39.9405092 -0.05 159.3

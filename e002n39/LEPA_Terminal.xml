@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<path>LEPA_Terminal.ac</path>
+
+<animation>
+	<type>material</type> 
+	<object-name>Corridors.End</object-name>
+	<object-name>ConcourseD.1</object-name>
+	<object-name>ConcourseD.2</object-name>
+	<object-name>ConcourseC</object-name>
+	<object-name>ConcourseC.2</object-name>
+	<object-name>ConcourseC.1</object-name>
+	<object-name>ConcourseA</object-name>
+	<condition>		
+		<greater-than>		
+		<property>/sim/time/sun-angle-rad</property>
+		<value>1.57</value>
+		</greater-than>
+	</condition>
+	<emission>	
+		<red>0.3</red>	
+		<green>0.3</green>	
+		<blue>0.2</blue>
+	</emission>
+</animation>
+<animation>
+	<type>material</type> 
+	<object-name>Parking</object-name>
+	<object-name>MainTerminal</object-name>
+	<object-name>Corridors</object-name>
+	<condition>		
+		<greater-than>		
+		<property>/sim/time/sun-angle-rad</property>
+		<value>1.57</value>
+		</greater-than>
+	</condition>
+	<emission>	
+		<red>0.2</red>	
+		<green>0.2</green>	
+		<blue>0.1</blue>
+	</emission>
+</animation>
+</PropertyList>

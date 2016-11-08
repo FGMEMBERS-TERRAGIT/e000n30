@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Airport/ndb.ac 9.836111 37.33 234.78 180
+OBJECT_SHARED Models/Communications/radio-medium.xml 9.7833333 37.2833333 -38.07 180
+OBJECT_SHARED Models/Communications/radio-medium.xml 9.883333 37.283333 -165.18 180
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 9.895 37.2683 -0.02 261.97
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 9.89667 37.2683 -0.08 179.16
