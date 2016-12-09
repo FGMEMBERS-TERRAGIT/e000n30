@@ -4,6 +4,7 @@ OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml 3.2140708 39.3610531 0 335.56
 OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml 3.2150703 39.3600758 0 103.37
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 3.170285 39.3317133 0 78.53
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 3.2129892 39.3623257 2.11 61.83
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 3.0534 39.2652 2.44 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 3.225536 39.369664 1.02 69.05
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 3.225831 39.36955 0.87 167.58
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 3.226078 39.369457 0.72 187.41

@@ -1,3 +1,6 @@
 OBJECT_SHARED Models/Communications/vordme_1.xml 1.365914 38.868344 2.75 180
 OBJECT_SHARED Models/Airport/localizer.xml 1.355869 38.8657 -0.05 331.99
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 1.4118333 38.8145333 -2.75 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 1.42165 38.7990167 -2.47 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 1.4782333 38.8048167 -2.4 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac 1.4078333 38.8105 -0.46 89.64

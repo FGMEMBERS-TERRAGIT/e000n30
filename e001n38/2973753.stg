@@ -186,6 +186,7 @@ OBJECT_SHARED Models/Power/transformer.ac 1.4305889 38.9196469 6.27 137.3
 OBJECT_SHARED Models/Power/transformer.ac 1.4306523 38.9185752 5.45 113.3
 OBJECT_SHARED Models/Power/transformer.ac 1.430735 38.9197718 6.03 137.3
 OBJECT_SHARED Models/Power/transformer.ac 1.4307889 38.9186141 5.34 113.3
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 1.4538333 38.9041667 -2.4 0
 OBJECT_SHARED Models/Power/small-electric-transformer.ac 1.43119 38.9188014 4.6 113.3
 OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.xml 1.4295525 38.9190216 6.78 141.3
 OBJECT_SHARED Models/Industrial/KOFF_Tank_20M.xml 1.4302968 38.91903 6.2 141.3
