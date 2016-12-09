@@ -1,1 +1,4 @@
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 2.9994185 39.3155398 0 321.4
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 2.7876833 39.3635 42.77 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 2.9132167 39.3529 -2.4 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 2.9934833 39.3124 -2.4 0

@@ -45,3 +45,4 @@ OBJECT_SHARED Models/lib/RampParking.xml 9.06053 39.24913 2.63 313.13
 OBJECT_SHARED Models/lib/RampParking.xml 9.06013 39.24947 2.76 312.95
 OBJECT_SHARED Models/lib/RampParking.xml 9.05972 39.24981 2.79 312.31
 # END dsf2stg
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 9.147436 39.184288 37.7 0

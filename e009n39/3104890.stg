@@ -9,3 +9,4 @@ OBJECT_SHARED Models/lib/MedHangar.ac 9.67938 39.92125 5.24 94.11
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.67887 39.92131 5.43 359.98
 OBJECT_SHARED Models/Airport/Vehicle/citerne.xml 9.67894 39.92130 5.28 1.25
 # END dsf2stg
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 9.713435 39.93017 128.06 0
