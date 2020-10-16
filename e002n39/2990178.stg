@@ -1,11 +1,9 @@
-OBJECT_SHARED Models/Airport/ils.xml 2.713408 39.549689 3.4 300.38
-OBJECT_SHARED Models/Airport/ils.xml 2.738247 39.561503 2.23 120.39
 OBJECT_SHARED Models/Airport/tacan.xml 2.73325 39.559694 2.71 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 2.713964 39.550039 3.37 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 2.746628 39.564678 -0.18 180
-OBJECT_SHARED Models/Airport/localizer.xml 2.707814 39.545767 4.17 328.46
-OBJECT_SHARED Models/Airport/localizer.xml 2.729178 39.540044 3.78 328.47
-OBJECT_SHARED Models/Airport/localizer.xml 2.745331 39.563514 -0.18 148.48
+OBJECT_SHARED Models/Airport/localizer.xml 2.707814 39.545767 4.17 120.39
+OBJECT_SHARED Models/Airport/localizer.xml 2.729178 39.540044 3.78 120.38
+OBJECT_SHARED Models/Airport/localizer.xml 2.745331 39.563514 -0.18 300.38
 OBJECT_SHARED Models/Maritime/Civilian/FerryBoat1.ac 2.6280671 39.554359 0 88
 OBJECT_SHARED Models/Maritime/Civilian/FerryBoat1.ac 2.6286262 39.5566159 5.9 357.1
 OBJECT_SHARED Models/Airport/Jetway/jetway-30l.xml 2.72842933 39.55030468 2.83 120
@@ -96,6 +94,8 @@ OBJECT_SHARED Models/Trees/lipa.xml 2.70556108 39.60321033 44.92 0
 OBJECT_SHARED Models/Trees/lipa.xml 2.70570837 39.60318311 44.96 0
 OBJECT_SHARED Models/Trees/lipa.xml 2.70573446 39.60307724 44.86 0
 OBJECT_SHARED Models/Trees/lipa.xml 2.70586526 39.60305504 44.91 0
+OBJECT_SHARED Models/Airport/EUROPOLES_GLS.xml 2.713408 39.549689 3.4 300.38
+OBJECT_SHARED Models/Airport/EUROPOLES_GLS.xml 2.738247 39.561503 2.23 120.39
 OBJECT_SHARED Models/Maritime/Civilian/wide_clear_yacht.ac 2.6213856 39.5501314 4.2 256
 OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 2.6204288 39.5504086 6.2 256
 OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 2.6210775 39.5502345 5.08 252
@@ -2780,3 +2780,4 @@ OBJECT_SHARED Models/lib/rw-guard-lights.ac 2.72896 39.54267 3.80 31.05
 OBJECT_SHARED Models/lib/rw-guard-lights.ac 2.73732 39.54666 3.19 211.15
 OBJECT_SHARED Models/lib/rw-guard-lights.ac 2.73732 39.54665 3.19 31.05
 # END dsf2stg
+OBJECT_STATIC BellverCastlePalma.ac 2.619316 39.563799 110.08 183

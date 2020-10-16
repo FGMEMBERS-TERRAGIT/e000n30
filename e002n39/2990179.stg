@@ -1,8 +1,8 @@
 OBJECT_SHARED Models/Airport/ndb.ac 2.821175 39.599364 102.9 180
-OBJECT_SHARED Models/Airport/ils.xml 2.759272 39.553042 2.22 120.38
 OBJECT_SHARED Models/Communications/vordme_1.xml 2.759286 39.553011 0.68 180
 OBJECT_SHARED Models/Airport/marker.ac 2.751944 39.566586 0.99 180
 OBJECT_SHARED Models/Airport/marker.ac 2.821175 39.599364 102.9 180
+OBJECT_SHARED Models/Airport/EUROPOLES_GLS.xml 2.759272 39.553042 2.22 120.38
 OBJECT_SHARED Models/Misc/toro_osborne.ac 2.93166 39.566062652 158.41 0
 # dsf2stg
 # do not edit below this line

@@ -1,6 +1,4 @@
 OBJECT_SHARED Models/Airport/ndb.ac 9.097472 39.214639 0 180
-OBJECT_SHARED Models/Airport/ils.xml 9.061278 39.243528 -0.1 41.96
-OBJECT_SHARED Models/Communications/vordme_1.xml 9.054083 39.249 0.63 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 9.061278 39.243583 -0.09 180
 OBJECT_SHARED Models/Airport/marker.ac 9.072139 39.236083 -0.22 180
 OBJECT_SHARED Models/Airport/marker.ac 9.097472 39.214639 0 180
@@ -46,4 +44,6 @@ OBJECT_SHARED Models/lib/RampParking.xml 9.06053 39.24913 2.55 313.13
 OBJECT_SHARED Models/lib/RampParking.xml 9.06013 39.24947 2.68 312.95
 OBJECT_SHARED Models/lib/RampParking.xml 9.05972 39.24981 2.71 312.31
 # END dsf2stg
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 9.054083 39.249 0.63 180
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 9.147436 39.184288 37.7 0
+OBJECT_SHARED Models/Airport/LOWI_ILS_glideslope2.xml 9.061278 39.243528 -0.1 41.96
